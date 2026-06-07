@@ -126,7 +126,7 @@ for(int i = n; i>=1 ; i--){
         System.out.print("*");
     }
     System.out.println();
-// hfkashdfkhsskdfksshdkjfhskdhf
+
 }
 
     }
